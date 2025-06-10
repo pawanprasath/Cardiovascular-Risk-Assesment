@@ -1,8 +1,37 @@
-# Cardiovascular-Risk-Assesment
-PROPOSED SYSTEM:
-In proposed system, the input image is taken from dataset repository. In pre-processing, we can resize the original image and gray scale conversion. After that, we can extract the features from pre-processed image such as Mean Median Variance. We can split the images into test image and train image. Then, we can implement the different deep learning algorithms such as MTCNN and Convolutional Neural Network (CNN) for classifying the input image is affected or not. Finally, the system can estimate some performance metrics such as accuracy and error rate. The effectiveness of the proposed method was confirmed by comparing accuracy improvement. 
-ADVANTAGES:
-•	It is efficient for large number of datasets.
-•	The experimental result is high when compared with existing system.
-•	Time consumption is low.
-•	It improve the achieved in feature stability
+# 🫀 Cardiovascular Risk Assessment using Multitask CNN
+
+Welcome to the **Cardiovascular Risk Assessment** project! This repository focuses on building a deep learning model that can help in predicting cardiovascular risks using medical data — all with the goal of supporting early detection and improved health outcomes.
+
+## 🔍 Project Overview
+
+Cardiovascular diseases (CVDs) are among the leading causes of death globally. This project uses a **Multitask Convolutional Neural Network (CNN)** to analyze patient data and predict the likelihood of cardiovascular risk. 
+
+By leveraging multitask learning, the model is trained to perform multiple related tasks at once — which not only improves accuracy but also helps the system generalize better across different types of health indicators.
+
+## 🧠 What’s Inside
+
+- ✅ Preprocessing of real-world patient datasets
+- 🏗️ Custom-built Multitask CNN architecture
+- 📊 Performance evaluation with accuracy, loss, and confusion matrices
+- 📁 Well-organized code for training and testing the model
+
+## ⚙️ Tech Stack
+
+- Python 🐍
+- TensorFlow / Keras 🧠
+- NumPy & Pandas 📊
+- Matplotlib & Seaborn 📈
+- Scikit-learn 🔍
+
+## 📂 Folder Structure
+
+```bash
+Cardiovascular-Risk-Assesment/
+│
+├── data/                # Contains datasets (training/testing)
+├── models/              # CNN architecture and saved models
+├── utils/               # Helper functions (preprocessing, evaluation, etc.)
+├── notebooks/           # Jupyter Notebooks for testing and visualization
+├── results/             # Graphs, metrics, and outputs
+├── main.py              # Main script to run the project
+└── README.md            # You’re here!
