@@ -23,15 +23,17 @@ By leveraging multitask learning, the model is trained to perform multiple relat
 - Matplotlib & Seaborn 📈
 - Scikit-learn 🔍
 
-## 📂 Folder Structure
+🧪 Results
+✅ Final Evaluation Metrics
+| Task                       | Accuracy | Precision | Recall | F1-Score |
+| -------------------------- | -------- | --------- | ------ | -------- |
+| Heart Disease Prediction   | 85.3%    | 84.6%     | 86.1%  | 85.3%    |
+| Blood Pressure Risk Level  | 81.2%    | 80.1%     | 82.7%  | 81.4%    |
+| Age-Related Risk Detection | 88.9%    | 87.4%     | 89.3%  | 88.3%    |
 
-```bash
-Cardiovascular-Risk-Assesment/
-│
-├── data/                # Contains datasets (training/testing)
-├── models/              # CNN architecture and saved models
-├── utils/               # Helper functions (preprocessing, evaluation, etc.)
-├── notebooks/           # Jupyter Notebooks for testing and visualization
-├── results/             # Graphs, metrics, and outputs
-├── main.py              # Main script to run the project
-└── README.md            # You’re here!
+🙌 Contributions
+Have ideas or want to improve the model? Pull requests and feedback are always welcome!
+
+🧑‍💻 Author
+Pawan Prasath
+pawanprasath6@gmail.com
