@@ -36,4 +36,5 @@ Have ideas or want to improve the model? Pull requests and feedback are always w
 
 🧑‍💻 Author
 Pawan Prasath
+B.Tech IT | AI enthusiast | Building smart solutions for real-world impact
 pawanprasath6@gmail.com
