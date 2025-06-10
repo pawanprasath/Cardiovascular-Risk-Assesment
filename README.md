@@ -23,7 +23,7 @@ By leveraging multitask learning, the model is trained to perform multiple relat
 - Matplotlib & Seaborn 📈
 - Scikit-learn 🔍
 
-🧪 Results
+## 🧪 Results
 ✅ Final Evaluation Metrics
 | Task                       | Accuracy | Precision | Recall | F1-Score |
 | -------------------------- | -------- | --------- | ------ | -------- |
@@ -31,7 +31,7 @@ By leveraging multitask learning, the model is trained to perform multiple relat
 | Blood Pressure Risk Level  | 81.2%    | 80.1%     | 82.7%  | 81.4%    |
 | Age-Related Risk Detection | 88.9%    | 87.4%     | 89.3%  | 88.3%    |
 
-🙌 Contributions
+## 🙌 Contributions
 Have ideas or want to improve the model? Pull requests and feedback are always welcome!
 
 🧑‍💻 Author
